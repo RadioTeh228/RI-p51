@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1760947161 source:c:\users\user\onedrive\desktop\lan_2_2_my\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1760942710 c:\users\user\onedrive\desktop\lan_2_2_my\formuli.h
+	<math.h>
+	<stdio.h>
+
